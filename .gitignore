@@ -1,0 +1,27 @@
+# Entorno virtual
+analisis/
+analisis/**
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Editor/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Datos, modelos y salidas grandes
+input_videos/
+output_videos/
+models/
+*.pt
+*.pth
+
+# Otros
+*.log
+.env
