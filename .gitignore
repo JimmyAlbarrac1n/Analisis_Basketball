@@ -15,12 +15,6 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# Datos, modelos y salidas grandes
-input_videos/
-output_videos/
-models/
-*.pt
-*.pth
 
 # Otros
 *.log
